@@ -1,0 +1,64 @@
+,LGA,Number of tram stops,Number of metropolitan train stops,Number of regional train stops,Total train stops,Total transport stops
+0,City of Banyule,9.0,9.0,0.0,9.0,18.0
+1,City of Bayside,6.0,6.0,0.0,6.0,12.0
+2,City of Boroondara,14.0,14.0,0.0,14.0,28.0
+3,City of Brimbank,6.0,6.0,4.0,10.0,16.0
+4,City of Casey,6.0,6.0,1.0,7.0,13.0
+5,City of Darebin,13.0,13.0,0.0,13.0,26.0
+6,City of Frankston,4.0,4.0,0.0,4.0,8.0
+7,City of Glen Eira,9.0,9.0,1.0,10.0,19.0
+8,City of Greater Dandenong,5.0,5.0,1.0,6.0,11.0
+9,City of Hobsons Bay,9.0,9.0,0.0,9.0,18.0
+10,City of Hume,6.0,6.0,3.0,9.0,15.0
+11,City of Kingston,13.0,13.0,0.0,13.0,26.0
+12,City of Knox,4.0,4.0,0.0,4.0,8.0
+13,City of Maribyrnong,6.0,6.0,1.0,7.0,13.0
+14,City of Maroondah,5.0,5.0,0.0,5.0,10.0
+15,City of Melbourne,11.0,11.0,3.0,14.0,25.0
+16,City of Melton,1.0,1.0,4.0,5.0,6.0
+17,City of Merri-bek,13.0,13.0,0.0,13.0,26.0
+18,City of Monash,8.0,8.0,1.0,9.0,17.0
+19,City of Moonee Valley,7.0,7.0,1.0,8.0,15.0
+20,City of Port Phillip,2.0,2.0,0.0,2.0,4.0
+21,City of Stonnington,15.0,15.0,0.0,15.0,30.0
+22,City of Whitehorse,6.0,6.0,0.0,6.0,12.0
+23,City of Whittlesea,8.0,8.0,1.0,9.0,17.0
+24,City of Wyndham,4.0,4.0,3.0,7.0,11.0
+25,City of Yarra,9.0,9.0,1.0,10.0,19.0
+26,Shire of Cardinia,4.0,4.0,5.0,9.0,13.0
+27,Shire of Mornington Peninsula,8.0,8.0,0.0,8.0,16.0
+28,Shire of Nillumbik,4.0,4.0,0.0,4.0,8.0
+29,Shire of Yarra Ranges,5.0,5.0,0.0,5.0,10.0
+30,Albury City Council,0.0,0.0,1.0,1.0,1.0
+31,City of Ballarat,0.0,0.0,2.0,2.0,2.0
+32,City of Greater Bendigo,0.0,0.0,5.0,5.0,5.0
+33,City of Greater Geelong,0.0,0.0,8.0,8.0,8.0
+34,City of Greater Shepparton,0.0,0.0,3.0,3.0,3.0
+35,City of Latrobe,0.0,0.0,3.0,3.0,3.0
+36,City of Warrnambool,0.0,0.0,2.0,2.0,2.0
+37,City of Wodonga,0.0,0.0,1.0,1.0,1.0
+38,Rural City of Ararat,0.0,0.0,1.0,1.0,1.0
+39,Rural City of Benalla,0.0,0.0,1.0,1.0,1.0
+40,Rural City of Horsham,0.0,0.0,1.0,1.0,1.0
+41,Rural City of Swan Hill,0.0,0.0,1.0,1.0,1.0
+42,Rural City of Wangaratta,0.0,0.0,2.0,2.0,2.0
+43,Shire of Baw Baw,0.0,0.0,5.0,5.0,5.0
+44,Shire of Campaspe,0.0,0.0,2.0,2.0,2.0
+45,Shire of Central Goldfields,0.0,0.0,2.0,2.0,2.0
+46,Shire of Colac Otway,0.0,0.0,2.0,2.0,2.0
+47,Shire of Corangamite,0.0,0.0,2.0,2.0,2.0
+48,Shire of East Gippsland,0.0,0.0,1.0,1.0,1.0
+49,Shire of Gannawarra,0.0,0.0,1.0,1.0,1.0
+50,Shire of Hepburn,0.0,0.0,2.0,2.0,2.0
+51,Shire of Hindmarsh,0.0,0.0,2.0,2.0,2.0
+52,Shire of Indigo,0.0,0.0,1.0,1.0,1.0
+53,Shire of Loddon,0.0,0.0,2.0,2.0,2.0
+54,Shire of Macedon Ranges,0.0,0.0,7.0,7.0,7.0
+55,Shire of Mitchell,0.0,0.0,7.0,7.0,7.0
+56,Shire of Moorabool,0.0,0.0,2.0,2.0,2.0
+57,Shire of Mount Alexander,0.0,0.0,1.0,1.0,1.0
+58,Shire of Northern Grampians,0.0,0.0,1.0,1.0,1.0
+59,Shire of Pyrenees,0.0,0.0,1.0,1.0,1.0
+60,Shire of Strathbogie,0.0,0.0,4.0,4.0,4.0
+61,Shire of Wellington,0.0,0.0,3.0,3.0,3.0
+62,Surf Coast Shire,0.0,0.0,1.0,1.0,1.0
