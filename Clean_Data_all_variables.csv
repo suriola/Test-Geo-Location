@@ -1,0 +1,156 @@
+Suburb/Town,Median house price 2023,LGA,School name,Median school VCE score,Sports facilities in suburb,Total fields/courts in suburb,Metropolitan parks in LGA,Regional parks in LGA,State parks in LGA,Total parks in LGA,Total park square meters in LGA,Number of tram stops in LGA,Number of metropolitan train stops in LGA,Number of regional train stops in LGA,Total train stops in LGA,Total transport stops in LGA
+ALBERT PARK,2097000.0,City of Port Phillip,Albert Park College,31.0,10.0,24.0,2.0,0.0,0.0,2.0,2217554.41,2.0,2.0,0.0,2.0,4.0
+ASHWOOD,1310000.0,City of Monash,Ashwood High School,32.0,8.0,12.0,0.0,0.0,0.0,0.0,2684015.36,8.0,8.0,1.0,9.0,17.0
+BACCHUS MARSH,657500.0,Shire of Moorabool,Bacchus Marsh College,25.0,10.0,16.0,0.0,1.0,2.0,3.0,255123708.43,0.0,0.0,2.0,2.0,2.0
+BAIRNSDALE,432500.0,Shire of East Gippsland,Bairnsdale Secondary College,26.0,17.0,14.0,0.0,2.0,1.0,3.0,128754867.6,0.0,0.0,1.0,1.0,1.0
+BALLARAT EAST,495000.0,City of Ballarat,Woodmans Hill Secondary College,29.0,5.0,3.0,0.0,1.0,0.0,1.0,6405331.630000001,0.0,0.0,2.0,2.0,2.0
+BALWYN NORTH,2220000.0,City of Boroondara,Balwyn High School,32.0,13.0,48.0,0.0,0.0,0.0,0.0,0.0,14.0,14.0,0.0,14.0,28.0
+BAYSWATER,873500.0,City of Knox,Bayswater Secondary College,28.0,14.0,10.0,2.0,0.0,0.0,2.0,5261643.35,4.0,4.0,0.0,4.0,8.0
+BEAUFORT,465000.0,Shire of Pyrenees,Beaufort Secondary College,26.0,4.0,2.0,0.0,1.0,1.0,2.0,20296425.77,0.0,0.0,1.0,1.0,1.0
+BEAUMARIS,1865000.0,City of Bayside,Beaumaris Secondary College,29.0,10.0,20.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,0.0,6.0,12.0
+BEECHWORTH,718000.0,Shire of Indigo,Beechworth Secondary College,26.0,6.0,15.0,0.0,1.0,0.0,1.0,2658694.53,0.0,0.0,1.0,1.0,1.0
+BERWICK,850000.0,City of Casey,Kambrya College,31.0,10.0,8.0,1.0,1.0,0.0,2.0,7540180.57,6.0,6.0,1.0,7.0,13.0
+BERWICK,850000.0,City of Casey,Nossal High School,36.0,10.0,8.0,1.0,1.0,0.0,2.0,7540180.57,6.0,6.0,1.0,7.0,13.0
+BRUNSWICK,1300000.0,City of Merri-bek,Sydney Road Community School,0.0,13.0,18.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,0.0,13.0,26.0
+CAROLINE SPRINGS,670000.0,City of Melton,Lakeview Senior College,28.0,8.0,13.0,0.0,1.0,0.0,1.0,994013.79,1.0,1.0,4.0,5.0,6.0
+CAULFIELD NORTH,1975000.0,City of Glen Eira,Oakwood School,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,1.0,10.0,19.0
+CLAYTON,1230000.0,City of Monash,John Monash Science School,35.0,14.0,22.0,0.0,0.0,0.0,0.0,2684015.36,8.0,8.0,1.0,9.0,17.0
+CLAYTON SOUTH,942000.0,City of Kingston,Westall Secondary College,27.0,5.0,5.0,3.0,0.0,0.0,3.0,3482865.06,13.0,13.0,0.0,13.0,26.0
+CORIO,487500.0,City of Greater Geelong,Northern Bay P-12 College,23.0,11.0,14.0,0.0,1.0,0.0,1.0,19667891.84,0.0,0.0,8.0,8.0,8.0
+CRAIGIEBURN,646000.0,City of Hume,Mount Ridley P-12 College,25.0,11.0,22.0,1.0,0.0,0.0,1.0,593177.57,6.0,6.0,3.0,9.0,15.0
+CRANBOURNE,633000.0,City of Casey,Lyndhurst Secondary College,30.0,14.0,19.0,1.0,1.0,0.0,2.0,7540180.57,6.0,6.0,1.0,7.0,13.0
+CRANBOURNE NORTH,705000.0,City of Casey,Alkira Secondary College,29.0,1.0,1.0,1.0,1.0,0.0,2.0,7540180.57,6.0,6.0,1.0,7.0,13.0
+CROYDON,845500.0,City of Maroondah,Melba Secondary College,29.0,17.0,15.0,1.0,0.0,0.0,1.0,8601.69,5.0,5.0,0.0,5.0,10.0
+DANDENONG NORTH,705000.0,City of Greater Dandenong,Lyndale Secondary College,29.0,2.0,17.0,1.0,0.0,0.0,1.0,494618.12,5.0,5.0,1.0,6.0,11.0
+DOREEN,700000.0,Shire of Nillumbik,Hazel Glen College,26.0,2.0,3.0,2.0,0.0,0.0,2.0,5971564.59,4.0,4.0,0.0,4.0,8.0
+ELTHAM NORTH,1046000.0,Shire of Nillumbik,St Helena Secondary College,29.0,1.0,1.0,2.0,0.0,0.0,2.0,5971564.59,4.0,4.0,0.0,4.0,8.0
+ENDEAVOUR HILLS,710000.0,City of Casey,Gleneagles Secondary College,29.0,3.0,2.0,1.0,1.0,0.0,2.0,7540180.57,6.0,6.0,1.0,7.0,13.0
+EPPING,639000.0,City of Whittlesea,Lalor North Secondary College,21.0,13.0,17.0,4.0,0.0,0.0,4.0,8004557.72,8.0,8.0,1.0,9.0,17.0
+EPPING,639000.0,City of Whittlesea,Mill Park Secondary College,26.0,13.0,17.0,4.0,0.0,0.0,4.0,8004557.72,8.0,8.0,1.0,9.0,17.0
+FLEMINGTON,1117500.0,City of Melbourne,Mount Alexander 7-12 College,29.0,2.0,2.0,1.0,0.0,0.0,1.0,415197.0,11.0,11.0,3.0,14.0,25.0
+FRANKSTON,698000.0,City of Frankston,McClelland Secondary College,29.0,38.0,160.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,0.0,4.0,8.0
+FRANKSTON NORTH,555000.0,City of Frankston,Monterey Secondary College,25.0,4.0,7.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,0.0,4.0,8.0
+GEELONG,830000.0,City of Greater Geelong,Matthew Flinders Girls Secondary College,27.0,12.0,9.0,0.0,1.0,0.0,1.0,19667891.84,0.0,0.0,8.0,8.0,8.0
+GISBORNE,975000.0,Shire of Macedon Ranges,Gisborne Secondary College,26.0,10.0,19.0,0.0,3.0,0.0,3.0,92615925.4,0.0,0.0,7.0,7.0,7.0
+GLADSTONE PARK,677500.0,City of Hume,Gladstone Park Secondary College,27.0,5.0,11.0,1.0,0.0,0.0,1.0,593177.57,6.0,6.0,3.0,9.0,15.0
+GLEN WAVERLEY,1750500.0,City of Monash,Glen Waverley Secondary College,33.0,20.0,36.0,0.0,0.0,0.0,0.0,2684015.36,8.0,8.0,1.0,9.0,17.0
+GLEN WAVERLEY,1750500.0,City of Monash,Highvale Secondary College,29.0,20.0,36.0,0.0,0.0,0.0,0.0,2684015.36,8.0,8.0,1.0,9.0,17.0
+GLENROY,735000.0,City of Merri-bek,Glenroy Secondary College,22.0,7.0,10.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,0.0,13.0,26.0
+GREENSBOROUGH,938500.0,City of Banyule,Greensborough Secondary College,22.0,6.0,3.0,0.0,0.0,0.0,0.0,2156831.18,9.0,9.0,0.0,9.0,18.0
+GROVEDALE,630000.0,City of Greater Geelong,Grovedale College,25.0,6.0,4.0,0.0,1.0,0.0,1.0,19667891.84,0.0,0.0,8.0,8.0,8.0
+HALLAM,660000.0,City of Casey,Hallam Secondary College,23.0,2.0,2.0,1.0,1.0,0.0,2.0,7540180.57,6.0,6.0,1.0,7.0,13.0
+HASTINGS,682500.0,Shire of Mornington Peninsula,Western Port Secondary College,25.0,8.0,8.0,0.0,0.0,1.0,1.0,5660425.62,8.0,8.0,0.0,8.0,16.0
+HAWTHORN,2601000.0,City of Boroondara,Swinburne Senior Secondary College,27.0,17.0,20.0,0.0,0.0,0.0,0.0,0.0,14.0,14.0,0.0,14.0,28.0
+HAWTHORN EAST,2215000.0,City of Boroondara,Auburn High School,31.0,8.0,7.0,0.0,0.0,0.0,0.0,0.0,14.0,14.0,0.0,14.0,28.0
+HEALESVILLE,745000.0,Shire of Yarra Ranges,Healesville High School,25.0,6.0,6.0,8.0,0.0,0.0,8.0,32094855.24,5.0,5.0,0.0,5.0,10.0
+HEATHMONT,1028000.0,City of Maroondah,Heathmont College,24.0,4.0,6.0,1.0,0.0,0.0,1.0,8601.69,5.0,5.0,0.0,5.0,10.0
+HOPPERS CROSSING,625000.0,City of Wyndham,Hoppers Crossing Secondary College,27.0,16.0,12.0,4.0,1.0,0.0,5.0,13176544.33,4.0,4.0,3.0,7.0,11.0
+HOPPERS CROSSING,625000.0,City of Wyndham,The Grange P-12 College,25.0,16.0,12.0,4.0,1.0,0.0,5.0,13176544.33,4.0,4.0,3.0,7.0,11.0
+HORSHAM,399500.0,Rural City of Horsham,Horsham College,31.0,30.0,42.0,0.0,0.0,2.0,2.0,178088171.35000002,0.0,0.0,1.0,1.0,1.0
+KENSINGTON,927500.0,City of Melbourne,Kensington Community High School,0.0,2.0,4.0,1.0,0.0,0.0,1.0,415197.0,11.0,11.0,3.0,14.0,25.0
+KERANG,226500.0,Shire of Gannawarra,Kerang Technical High School,23.0,12.0,33.0,0.0,1.0,0.0,1.0,6649151.449999999,0.0,0.0,1.0,1.0,1.0
+KEW EAST,4600000.0,City of Boroondara,Kew High School,31.0,6.0,10.0,0.0,0.0,0.0,0.0,0.0,14.0,14.0,0.0,14.0,28.0
+KOO WEE RUP,640000.0,Shire of Cardinia,Koo Wee Rup Secondary College,28.0,1.0,1.0,1.0,2.0,1.0,4.0,171787512.28,4.0,4.0,5.0,9.0,13.0
+KYNETON,790000.0,Shire of Macedon Ranges,Kyneton High School,28.0,10.0,23.0,0.0,3.0,0.0,3.0,92615925.4,0.0,0.0,7.0,7.0,7.0
+LAKES ENTRANCE,525000.0,Shire of East Gippsland,Lakes Entrance Secondary College,24.0,13.0,16.0,0.0,2.0,1.0,3.0,128754867.6,0.0,0.0,1.0,1.0,1.0
+LALOR,655000.0,City of Whittlesea,Lalor Secondary College,25.0,6.0,12.0,4.0,0.0,0.0,4.0,8004557.72,8.0,8.0,1.0,9.0,17.0
+LALOR,655000.0,City of Whittlesea,Peter Lalor Secondary College,0.0,6.0,12.0,4.0,0.0,0.0,4.0,8004557.72,8.0,8.0,1.0,9.0,17.0
+LARA,757500.0,City of Greater Geelong,Lara Secondary College,25.0,8.0,10.0,0.0,1.0,0.0,1.0,19667891.84,0.0,0.0,8.0,8.0,8.0
+LAVERTON,565000.0,City of Hobsons Bay,Laverton P-12 College,22.0,1.0,0.0,1.0,0.0,0.0,1.0,1585820.51,9.0,9.0,0.0,9.0,18.0
+LILYDALE,775000.0,Shire of Yarra Ranges,Lilydale Heights College,26.0,9.0,9.0,8.0,0.0,0.0,8.0,32094855.24,5.0,5.0,0.0,5.0,10.0
+LILYDALE,775000.0,Shire of Yarra Ranges,Lilydale High School,28.0,9.0,9.0,8.0,0.0,0.0,8.0,32094855.24,5.0,5.0,0.0,5.0,10.0
+LORNE,1824500.0,Surf Coast Shire,Lorne P-12 College,26.0,7.0,5.0,0.0,1.0,0.0,1.0,1135983.53,0.0,0.0,1.0,1.0,1.0
+MACLEOD,1102500.0,City of Banyule,Macleod College,28.0,5.0,2.0,0.0,0.0,0.0,0.0,2156831.18,9.0,9.0,0.0,9.0,18.0
+MAFFRA,401000.0,Shire of Wellington,Maffra Secondary College,25.0,11.0,19.0,0.0,2.0,1.0,3.0,113374268.61,0.0,0.0,3.0,3.0,3.0
+MALLACOOTA,1120000.0,Shire of East Gippsland,Mallacoota P-12 College,34.0,7.0,5.0,0.0,2.0,1.0,3.0,128754867.6,0.0,0.0,1.0,1.0,1.0
+MARIBYRNONG,1055000.0,City of Maribyrnong,Maribyrnong Secondary College,30.0,5.0,2.0,2.0,0.0,0.0,2.0,650769.72,6.0,6.0,1.0,7.0,13.0
+MARYBOROUGH,387500.0,Shire of Central Goldfields,Maryborough Education Centre,26.0,16.0,30.0,0.0,1.0,1.0,2.0,24449973.94,0.0,0.0,2.0,2.0,2.0
+MCKINNON,1130000.0,City of Glen Eira,McKinnon Secondary College,33.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,1.0,10.0,19.0
+MELTON,456000.0,City of Melton,Kurunjang Secondary College,25.0,23.0,31.0,0.0,1.0,0.0,1.0,994013.79,1.0,1.0,4.0,5.0,6.0
+MELTON,456000.0,City of Melton,Melton Secondary College,24.0,23.0,31.0,0.0,1.0,0.0,1.0,994013.79,1.0,1.0,4.0,5.0,6.0
+MELTON SOUTH,495000.0,City of Melton,Staughton College,23.0,8.0,12.0,0.0,1.0,0.0,1.0,994013.79,1.0,1.0,4.0,5.0,6.0
+MENTONE,1436000.0,City of Kingston,Mentone Girls Secondary College,32.0,6.0,6.0,3.0,0.0,0.0,3.0,3482865.06,13.0,13.0,0.0,13.0,26.0
+MERNDA,642500.0,City of Whittlesea,Mernda Central P-12 College,28.0,3.0,3.0,4.0,0.0,0.0,4.0,8004557.72,8.0,8.0,1.0,9.0,17.0
+MONBULK,815000.0,Shire of Yarra Ranges,Monbulk College,25.0,5.0,4.0,8.0,0.0,0.0,8.0,32094855.24,5.0,5.0,0.0,5.0,10.0
+MONT ALBERT NORTH,1751500.0,City of Whitehorse,Koonung Secondary College,32.0,1.0,4.0,4.0,0.0,0.0,4.0,1116662.42,6.0,6.0,0.0,6.0,12.0
+MONTMORENCY,1173500.0,City of Banyule,Montmorency Secondary College,30.0,1.0,1.0,0.0,0.0,0.0,0.0,2156831.18,9.0,9.0,0.0,9.0,18.0
+MOOROOLBARK,770500.0,Shire of Yarra Ranges,Mooroolbark College,28.0,5.0,16.0,8.0,0.0,0.0,8.0,32094855.24,5.0,5.0,0.0,5.0,10.0
+MORDIALLOC,1355000.0,City of Kingston,Mordialloc College,30.0,12.0,8.0,3.0,0.0,0.0,3.0,3482865.06,13.0,13.0,0.0,13.0,26.0
+MORDIALLOC,1355000.0,City of Kingston,Parkdale Secondary College,29.0,12.0,8.0,3.0,0.0,0.0,3.0,3482865.06,13.0,13.0,0.0,13.0,26.0
+MORNINGTON,1050000.0,Shire of Mornington Peninsula,Mornington Secondary College,27.0,20.0,32.0,0.0,0.0,1.0,1.0,5660425.62,8.0,8.0,0.0,8.0,16.0
+MOUNT ELIZA,1782500.0,Shire of Mornington Peninsula,Mount Eliza Secondary College,29.0,2.0,4.0,0.0,0.0,1.0,1.0,5660425.62,8.0,8.0,0.0,8.0,16.0
+MOUNT WAVERLEY,1407000.0,City of Monash,Mount Waverley Secondary College,31.0,1.0,1.0,0.0,0.0,0.0,0.0,2684015.36,8.0,8.0,1.0,9.0,17.0
+MULGRAVE,933000.0,City of Monash,Wellington Secondary College,28.0,7.0,9.0,0.0,0.0,0.0,0.0,2684015.36,8.0,8.0,1.0,9.0,17.0
+NEERIM SOUTH,707500.0,Shire of Baw Baw,Neerim District Secondary College,23.0,5.0,6.0,0.0,1.0,2.0,3.0,77471076.85,0.0,0.0,5.0,5.0,5.0
+NEWBOROUGH,375000.0,City of Latrobe,Lowanna College,24.0,11.0,14.0,0.0,0.0,0.0,0.0,3494932.75,0.0,0.0,3.0,3.0,3.0
+NEWCOMB,544000.0,City of Greater Geelong,Newcomb Secondary College,26.0,3.0,5.0,0.0,1.0,0.0,1.0,19667891.84,0.0,0.0,8.0,8.0,8.0
+NHILL,232500.0,Shire of Hindmarsh,Nhill College,25.0,7.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0
+NIDDRIE,903000.0,City of Moonee Valley,Rosehill Secondary College,28.0,2.0,1.0,1.0,0.0,0.0,1.0,1063497.25,7.0,7.0,1.0,8.0,15.0
+NOBLE PARK,709000.0,City of Greater Dandenong,Noble Park Secondary College,25.0,3.0,3.0,1.0,0.0,0.0,1.0,494618.12,5.0,5.0,1.0,6.0,11.0
+NORTHCOTE,1690000.0,City of Darebin,Northcote High School,31.0,8.0,6.0,1.0,0.0,0.0,1.0,1673.06,13.0,13.0,0.0,13.0,26.0
+OAKLEIGH SOUTH,1046000.0,City of Monash,South Oakleigh Secondary College,29.0,2.0,1.0,0.0,0.0,0.0,0.0,2684015.36,8.0,8.0,1.0,9.0,17.0
+OFFICER,700000.0,Shire of Cardinia,Officer Secondary College,25.0,3.0,4.0,1.0,2.0,1.0,4.0,171787512.28,4.0,4.0,5.0,9.0,13.0
+ORBOST,350000.0,Shire of East Gippsland,Orbost Secondary College,27.0,9.0,16.0,0.0,2.0,1.0,3.0,128754867.6,0.0,0.0,1.0,1.0,1.0
+PAKENHAM,638000.0,Shire of Cardinia,Pakenham Secondary College,29.0,11.0,34.0,1.0,2.0,1.0,4.0,171787512.28,4.0,4.0,5.0,9.0,13.0
+PARKVILLE,2500000.0,City of Melbourne,University High School,31.0,4.0,8.0,1.0,0.0,0.0,1.0,415197.0,11.0,11.0,3.0,14.0,25.0
+PASCOE VALE,897500.0,City of Merri-bek,Pascoe Vale Girls Secondary College,26.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,0.0,13.0,26.0
+POINT COOK,750000.0,City of Wyndham,Homestead Senior Secondary College,29.0,11.0,14.0,4.0,1.0,0.0,5.0,13176544.33,4.0,4.0,3.0,7.0,11.0
+POINT COOK,750000.0,City of Wyndham,Point Cook Senior Secondary College,27.0,11.0,14.0,4.0,1.0,0.0,5.0,13176544.33,4.0,4.0,3.0,7.0,11.0
+PRINCES HILL,1620000.0,City of Yarra,Princes Hill Secondary College,31.0,2.0,2.0,3.0,0.0,0.0,3.0,36532.15,9.0,9.0,1.0,10.0,19.0
+RAINBOW,152500.0,Shire of Hindmarsh,Rainbow P-12 College,23.0,5.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0
+RESERVOIR,815000.0,City of Darebin,Reservoir High School,26.0,15.0,24.0,1.0,0.0,0.0,1.0,1673.06,13.0,13.0,0.0,13.0,26.0
+RESERVOIR,815000.0,City of Darebin,William Ruthven Secondary College,27.0,15.0,24.0,1.0,0.0,0.0,1.0,1673.06,13.0,13.0,0.0,13.0,26.0
+RICHMOND,1340000.0,City of Yarra,Lynall Hall Community School,0.0,33.0,17.0,3.0,0.0,0.0,3.0,36532.15,9.0,9.0,1.0,10.0,19.0
+RICHMOND,1340000.0,City of Yarra,Melbourne Girls College,33.0,33.0,17.0,3.0,0.0,0.0,3.0,36532.15,9.0,9.0,1.0,10.0,19.0
+RICHMOND,1340000.0,City of Yarra,Richmond High School,28.0,33.0,17.0,3.0,0.0,0.0,3.0,36532.15,9.0,9.0,1.0,10.0,19.0
+RINGWOOD,1047500.0,City of Maroondah,Norwood Secondary College,28.0,21.0,37.0,1.0,0.0,0.0,1.0,8601.69,5.0,5.0,0.0,5.0,10.0
+RINGWOOD,1047500.0,City of Maroondah,Ringwood Secondary College,30.0,21.0,37.0,1.0,0.0,0.0,1.0,8601.69,5.0,5.0,0.0,5.0,10.0
+ROBINVALE,280000.0,Rural City of Swan Hill,Robinvale College,22.0,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+ROCHESTER,250000.0,Shire of Campaspe,Rochester Secondary College,27.0,8.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0
+ROSEBUD,710500.0,Shire of Mornington Peninsula,Rosebud Secondary College,28.0,9.0,10.0,0.0,0.0,1.0,1.0,5660425.62,8.0,8.0,0.0,8.0,16.0
+ROWVILLE,1050000.0,City of Knox,Rowville Secondary College,26.0,13.0,16.0,2.0,0.0,0.0,2.0,5261643.35,4.0,4.0,0.0,4.0,8.0
+ROXBURGH PARK,670000.0,City of Hume,Roxburgh College,24.0,3.0,4.0,1.0,0.0,0.0,1.0,593177.57,6.0,6.0,3.0,9.0,15.0
+RUSHWORTH,272500.0,Shire of Campaspe,Rushworth P-12 College,24.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0
+RUTHERGLEN,595000.0,Shire of Indigo,Rutherglen High School,24.0,6.0,11.0,0.0,1.0,0.0,1.0,2658694.53,0.0,0.0,1.0,1.0,1.0
+SALE,450000.0,Shire of Wellington,Sale College,26.0,25.0,53.0,0.0,2.0,1.0,3.0,113374268.61,0.0,0.0,3.0,3.0,3.0
+SANDRINGHAM,2090500.0,City of Bayside,Sandringham College,30.0,12.0,14.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,0.0,6.0,12.0
+SCORESBY,895000.0,City of Knox,Scoresby Secondary College,27.0,4.0,9.0,2.0,0.0,0.0,2.0,5261643.35,4.0,4.0,0.0,4.0,8.0
+SEAFORD,796500.0,City of Frankston,Patterson River Secondary College,25.0,18.0,40.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,0.0,4.0,8.0
+SEBASTOPOL,460000.0,Shire of Mount Alexander,Phoenix P-12 Community College,28.0,8.0,9.0,0.0,2.0,0.0,2.0,14909388.97,0.0,0.0,1.0,1.0,1.0
+SEYMOUR,520000.0,Shire of Mitchell,Seymour College,25.0,11.0,8.0,0.0,1.0,0.0,1.0,8838903.05,0.0,0.0,7.0,7.0,7.0
+SOMERVILLE,750000.0,Shire of Mornington Peninsula,Somerville Secondary College,28.0,5.0,4.0,0.0,0.0,1.0,1.0,5660425.62,8.0,8.0,0.0,8.0,16.0
+SOUTH MORANG,710000.0,City of Whittlesea,The Lakes South Morang College,24.0,5.0,11.0,4.0,0.0,0.0,4.0,8004557.72,8.0,8.0,1.0,9.0,17.0
+SOUTH YARRA,2700000.0,City of Stonnington,Melbourne High School,36.0,10.0,12.0,1.0,0.0,0.0,1.0,31843.66,15.0,15.0,0.0,15.0,30.0
+ST ALBANS,650000.0,City of Brimbank,St Albans Secondary College,31.0,23.0,13.0,2.0,0.0,0.0,2.0,3520700.65,6.0,6.0,4.0,10.0,16.0
+STAWELL,325000.0,Shire of Northern Grampians,Stawell Secondary College,23.0,11.0,11.0,0.0,1.0,0.0,1.0,9202759.8,0.0,0.0,1.0,1.0,1.0
+STRATHMORE,1200000.0,City of Moonee Valley,Strathmore Secondary College,30.0,3.0,9.0,1.0,0.0,0.0,1.0,1063497.25,7.0,7.0,1.0,8.0,15.0
+SUNBURY,637500.0,City of Hume,Sunbury College,27.0,18.0,21.0,1.0,0.0,0.0,1.0,593177.57,6.0,6.0,3.0,9.0,15.0
+SUNBURY,637500.0,City of Hume,Sunbury Downs Secondary College,29.0,18.0,21.0,1.0,0.0,0.0,1.0,593177.57,6.0,6.0,3.0,9.0,15.0
+SUNSHINE WEST,638000.0,City of Brimbank,Sunshine College,25.0,5.0,3.0,2.0,0.0,0.0,2.0,3520700.65,6.0,6.0,4.0,10.0,16.0
+SWAN HILL,412000.0,Rural City of Swan Hill,Swan Hill College,28.0,16.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+TARNEIT,651000.0,City of Wyndham,Tarneit Senior College,23.0,3.0,4.0,4.0,1.0,0.0,5.0,13176544.33,4.0,4.0,3.0,7.0,11.0
+TAYLORS LAKES,820000.0,City of Brimbank,Taylors Lakes Secondary College,27.0,6.0,2.0,2.0,0.0,0.0,2.0,3520700.65,6.0,6.0,4.0,10.0,16.0
+THOMASTOWN,680000.0,City of Whittlesea,Thomastown Secondary College,25.0,10.0,15.0,4.0,0.0,0.0,4.0,8004557.72,8.0,8.0,1.0,9.0,17.0
+THORNBURY,1250000.0,City of Darebin,Thornbury High School,31.0,10.0,11.0,1.0,0.0,0.0,1.0,1673.06,13.0,13.0,0.0,13.0,26.0
+THORNBURY,1250000.0,City of Darebin,Virtual School Victoria,26.0,10.0,11.0,1.0,0.0,0.0,1.0,1673.06,13.0,13.0,0.0,13.0,26.0
+TORQUAY,1300000.0,Surf Coast Shire,Surf Coast Secondary College,29.0,26.0,26.0,0.0,1.0,0.0,1.0,1135983.53,0.0,0.0,1.0,1.0,1.0
+TRAFALGAR,455000.0,Shire of Baw Baw,Trafalgar High School,27.0,10.0,17.0,0.0,1.0,2.0,3.0,77471076.85,0.0,0.0,5.0,5.0,5.0
+TRARALGON,449000.0,City of Latrobe,Traralgon College,25.0,24.0,26.0,0.0,0.0,0.0,0.0,3494932.75,0.0,0.0,3.0,3.0,3.0
+UPWEY,810000.0,Shire of Yarra Ranges,Upwey High School,27.0,4.0,7.0,8.0,0.0,0.0,8.0,32094855.24,5.0,5.0,0.0,5.0,10.0
+VERMONT,1200000.0,City of Whitehorse,Vermont Secondary College,32.0,2.0,7.0,4.0,0.0,0.0,4.0,1116662.42,6.0,6.0,0.0,6.0,12.0
+VIEWBANK,1083000.0,City of Banyule,Viewbank College,31.0,2.0,2.0,0.0,0.0,0.0,0.0,2156831.18,9.0,9.0,0.0,9.0,18.0
+WALLAN,600000.0,Shire of Mitchell,Wallan Secondary College,21.0,8.0,12.0,0.0,1.0,0.0,1.0,8838903.05,0.0,0.0,7.0,7.0,7.0
+WANGARATTA,460000.0,Rural City of Wangaratta,Wangaratta High School,28.0,21.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0
+WARRAGUL,616500.0,Shire of Baw Baw,Warragul Regional College,25.0,26.0,31.0,0.0,1.0,2.0,3.0,77471076.85,0.0,0.0,5.0,5.0,5.0
+WEDDERBURN,357500.0,Shire of Loddon,Wedderburn College,28.0,6.0,15.0,0.0,0.0,2.0,2.0,131890242.76,0.0,0.0,2.0,2.0,2.0
+WENDOUREE,470000.0,City of Ballarat,Mount Rowan Secondary College,27.0,17.0,49.0,0.0,1.0,0.0,1.0,6405331.630000001,0.0,0.0,2.0,2.0,2.0
+WERRIBEE,587000.0,City of Wyndham,Suzanne Cory High School,35.0,21.0,29.0,4.0,1.0,0.0,5.0,13176544.33,4.0,4.0,3.0,7.0,11.0
+WERRIBEE,587000.0,City of Wyndham,Werribee Secondary College,28.0,21.0,29.0,4.0,1.0,0.0,5.0,13176544.33,4.0,4.0,3.0,7.0,11.0
+WERRIBEE,587000.0,City of Wyndham,Wyndham Central Secondary College,24.0,21.0,29.0,4.0,1.0,0.0,5.0,13176544.33,4.0,4.0,3.0,7.0,11.0
+WHEELERS HILL,1524000.0,Shire of Hepburn,Wheelers Hill Secondary College,26.0,8.0,13.0,0.0,5.0,0.0,5.0,115380698.43,0.0,0.0,2.0,2.0,2.0
+WHITTLESEA,712500.0,City of Whittlesea,Whittlesea Secondary College,22.0,6.0,6.0,4.0,0.0,0.0,4.0,8004557.72,8.0,8.0,1.0,9.0,17.0
+WILLIAMSTOWN,1390000.0,City of Hobsons Bay,Williamstown High School,32.0,20.0,28.0,1.0,0.0,0.0,1.0,1585820.51,9.0,9.0,0.0,9.0,18.0
+WODONGA,497500.0,City of Wodonga,Wodonga Senior Secondary College,23.0,25.0,33.0,0.0,1.0,0.0,1.0,42282389.51,0.0,0.0,1.0,1.0,1.0
+WYNDHAM VALE,555000.0,City of Wyndham,Manor Lakes P-12 College,23.0,5.0,4.0,4.0,1.0,0.0,5.0,13176544.33,4.0,4.0,3.0,7.0,11.0
+YARRA JUNCTION,693000.0,Shire of Yarra Ranges,Upper Yarra Secondary College,25.0,3.0,2.0,8.0,0.0,0.0,8.0,32094855.24,5.0,5.0,0.0,5.0,10.0
+YARRAM,387500.0,Shire of Wellington,Yarram Secondary College,26.0,6.0,7.0,0.0,2.0,1.0,3.0,113374268.61,0.0,0.0,3.0,3.0,3.0
